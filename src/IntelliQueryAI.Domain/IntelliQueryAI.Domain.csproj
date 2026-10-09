@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\IntelliQueryAI.SharedKernel\IntelliQueryAI.SharedKernel.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Pgvector" />
+  </ItemGroup>
+
+</Project>

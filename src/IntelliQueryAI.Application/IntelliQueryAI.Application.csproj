@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\IntelliQueryAI.AI\IntelliQueryAI.AI.csproj" />
+    <ProjectReference Include="..\IntelliQueryAI.Domain\IntelliQueryAI.Domain.csproj" />
+    <ProjectReference Include="..\IntelliQueryAI.SharedKernel\IntelliQueryAI.SharedKernel.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" />
+    <PackageReference Include="Scrutor" />
+  </ItemGroup>
+
+</Project>

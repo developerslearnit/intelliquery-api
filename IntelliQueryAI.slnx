@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="hosting-docs.txt" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/IntelliQueryAI.AI/IntelliQueryAI.AI.csproj" />
+    <Project Path="src/IntelliQueryAI.Api/IntelliQueryAI.Api.csproj" />
+    <Project Path="src/IntelliQueryAI.Application/IntelliQueryAI.Application.csproj" />
+    <Project Path="src/IntelliQueryAI.Domain/IntelliQueryAI.Domain.csproj" />
+    <Project Path="src/IntelliQueryAI.Infrastructure/IntelliQueryAI.Infrastructure.csproj" />
+    <Project Path="src/IntelliQueryAI.SharedKernel/IntelliQueryAI.SharedKernel.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/IntelliQueryAI.Application.Tests/IntelliQueryAI.Application.Tests.csproj" />
+    <Project Path="tests/IntelliQueryAI.Domain.Tests/IntelliQueryAI.Domain.Tests.csproj" />
+    <Project Path="tests/IntelliQueryAI.IntegrationTests/IntelliQueryAI.IntegrationTests.csproj" />
+  </Folder>
+</Solution>
